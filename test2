@@ -1,1 +1,3 @@
-second one
+#!/bin/bash
+
+echo "test second"
